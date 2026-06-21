@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Bem-vindo(a)%20ao%20meu%20perfil!&fontSize=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Bem-vindo(a)%20ao%20meu%20mundo!&fontSize=50&animation=fadeIn" width="100%"/>
 </div>
 
 <h1 align="center">Olá, eu sou o Luan Palma! 🚀</h1>
