@@ -90,7 +90,7 @@ Investigo como a tecnologia pode enfrentar desafios reais, especialmente em áre
 
 </details>
 
-> As tecnologias listadas fazem parte da minha trajetória de desenvolvimento e estudos; representam experiências e áreas de aprendizado, não uma declaração de domínio avançado em todas elas.
+> As tecnologias listadas fazem parte da minha trajetória de desenvolvimento e estudos; representam experiências e áreas de aprendizado.
 
 ---
 
